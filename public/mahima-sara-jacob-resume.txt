@@ -1,0 +1,22 @@
+MAHIMA SARA JACOB
+Electronics and Communication Engineering
+College of Engineering Kidangoor
+
+Professional Summary
+ECE student focused on IoT systems, Arduino programming, Tinkercad circuit simulation, and modern React product interfaces. Practical internship work at IIIT Kottayam strengthened networking, cloud basics, electronics for IoT, embedded prototyping, and project-cum-product thinking.
+
+Internship
+IoT Assistant, IIIT Kottayam
+May 18, 2026 - June 30, 2026
+Focus areas: Networking and Cloud Basics, Electronics for IoT, Networking and Cloud, Arduino Programming, Project-cum-Product Development.
+
+Projects
+30 Tinkercad circuit projects covering sensor systems, actuator systems, and sensor-actuator integrations using Arduino C++, simulated wiring, component behavior, and professional documentation.
+
+Skills
+Embedded systems, IoT architecture, circuit simulation, sensor integration, cloud fundamentals, networking basics, React, JavaScript, Vite, Tailwind CSS, Framer Motion, GitHub, Arduino programming, debugging, documentation, validation planning, Tinkercad, Arduino IDE, Git, VS Code.
+
+Contact
+LinkedIn: https://www.linkedin.com/in/mahimasj
+GitHub: https://github.com/mahimasarajacob2007-ai
+Email: mahimasarajacob2007@gmail.com
